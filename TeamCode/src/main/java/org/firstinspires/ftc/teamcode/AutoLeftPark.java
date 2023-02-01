@@ -284,6 +284,8 @@ public class AutoLeftPark extends LinearOpMode {
                 sleep(500);
                 allAtOnce(-1);
                 sleep(350);
+
+
                 allAtOnce(0);
 
             }
