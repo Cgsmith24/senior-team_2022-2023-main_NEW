@@ -283,7 +283,7 @@ public class AutoLeftPark extends LinearOpMode {
                 // Now drive into it
                 sleep(500);
                 allAtOnce(-1);
-                sleep(360);
+                sleep(350);
                 allAtOnce(0);
 
             }
